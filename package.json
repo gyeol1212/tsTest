@@ -10,6 +10,11 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.2",
+    "styled-components": "^4.3.2",
+    "tslint": "^5.20.0",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^4.1.0",
     "typescript": "3.6.3"
   },
   "scripts": {
@@ -32,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4.1.19"
   }
 }
